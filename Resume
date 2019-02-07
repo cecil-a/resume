@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage{graphics}
+\usepackage[hmargin=1in, vmargin=1in]{geometry}
+\usepackage{color}
+\usepackage{hyperref}
+
+\definecolor{ablue}{RGB}{91,115,231}
+\hypersetup{colorlinks,%
+citecolor=blue,%
+filecolor=blue,%
+linkcolor=blue,%
+urlcolor=blue,%
+}
+
+\begin{document}
+
+\begin{center}
+    \Huge\textcolor{ablue}{Cecil Andrews}
+\end{center}
+
+
+\begin{center}
+
+$416.475.1285 \vert \hspace{1cm} \href{mailto:cecil.r.andrews@gmail.com}{cecil.r.andrews@gmail.com} \vert Toronto, ON \vert \href{www.linkedin.com/in/craandrews}{www.linkedin.com/in/craandrews}
+
+\end{center}
+
+\section[large, ]{Summary of Qualifications}
+
+\end{document}
